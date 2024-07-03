@@ -118,4 +118,4 @@ Hardware:
 
 ## Results
 
-![output](https://github.com/Ashu-00/Indoor-Navigation-IvLabs/blob/main/assets/output.gif)
+![output](assets/output.gif)
