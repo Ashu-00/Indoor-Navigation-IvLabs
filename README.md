@@ -118,4 +118,4 @@ Hardware:
 
 ## Results
 
-![](./assets/output (1).gif)
+![output](./assets/output (1).gif)
